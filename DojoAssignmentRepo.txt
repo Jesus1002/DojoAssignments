@@ -1,0 +1,10 @@
+Git init
+git add .
+git commit -m “repo”
+git git remote add origin https://github.com/Jesus1002/DojoAssignments.git
+git push -u origin master
+touch read.md
+git status
+git add readme.md
+git commit -m “read has been pushed”
+git push -u origin master
